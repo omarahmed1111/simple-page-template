@@ -1,7 +1,3 @@
-body {
-  width: 100%;
-}
-
 
 .list-item-img {
   width: 4rem;
@@ -36,6 +32,12 @@ body {
 
 .table-row-head {
   font-weight: normal;
+  
+}
+
+.fixed-width-column {
+  width: 11rem;
+  margin:0 auto;
 }
 
 .flex-container {
@@ -46,6 +48,7 @@ body {
   flex-direction: column;
   align-items: center;
   flex: 1 0 100%;
+
 }
 
 
