@@ -1,0 +1,56 @@
+body {
+  width: 100%;
+}
+
+
+.list-item-img {
+  width: 4rem;
+  height: 4rem;
+  margin-bottom: 1rem;
+}
+
+.list-group-item {
+  border: none;
+}
+
+.card {
+  border: none;
+}
+
+.title-description {
+  text-align: center;
+}
+
+.title {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: normal;
+}
+
+.table-row {
+  border-bottom-style: dashed;
+  font-weight: normal;
+}
+
+.table-row-head {
+  font-weight: normal;
+}
+
+.flex-container {
+  text-align: center;
+  margin: 10px 10px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1 0 100%;
+}
+
+
+#_mainTitle {
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
